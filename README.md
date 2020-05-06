@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+April 2020
 
 ### Project Title
-Replace the Project Title
+Submission to pass the GItHUb element
 
 ### Description
-Describe what your project is about and what it does
+My submission to pass the git elemnt of Udacity
 
 ### Files used
-Include the files used
+All my python project and some extra files
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity course
+NOTE: I am not sure how this was OK the first submission and later not, I think I did  a pull on a commit and erased ths file with previous version
